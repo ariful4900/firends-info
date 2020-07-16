@@ -1,0 +1,12 @@
+@import "../../assets/scss/base.scss";
+
+.MuiIconButton-root {
+    &:hover {
+        border-radius: 10px;
+        background-color: powderblue;
+    }
+    a {
+        color: #fff;
+        font-size: 18px;
+    }
+}
